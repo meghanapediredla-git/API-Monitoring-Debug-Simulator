@@ -20,3 +20,7 @@ A lightweight Python tool that monitors REST API endpoints, logs responses, dete
 1. Install dependencies  
    ```bash
    pip install requests
+
+   Update Log: Improved logging format and added response time tracking.
+
+
