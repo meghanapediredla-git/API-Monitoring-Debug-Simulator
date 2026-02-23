@@ -22,5 +22,8 @@ A lightweight Python tool that monitors REST API endpoints, logs responses, dete
    pip install requests
 
    Update Log: Improved logging format and added response time tracking.
+   Update Log: Added timeout handling for slow API requests.
+
+
 
 
